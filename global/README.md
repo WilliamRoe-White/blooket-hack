@@ -1,5 +1,3 @@
-**Discord server: https://discord.gg/K5xUbuDqmG**
-
 **These bookmarklets are also on: https://schoolcheats.net/blooket**
 
 # global
@@ -8,7 +6,7 @@ All these cheats in the folder can be used outside games
 
 # addTokens.js
 
-note: **This cheat also includes adding max xp for the day**
+**Note:** This cheat also gives you 300XP (max) for the day, resets at 1PM everyday.
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
@@ -17,6 +15,8 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 # bypassRandomName.js
 
+**Note:** You must be in the lobby part where you select a random name.
+
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEJ5cGFzc1JhbmRvbU5hbWUuanM=')).then((res) => res.text().then((t) => eval(t)))
@@ -24,12 +24,16 @@ fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2Fk
 
 # getAllBlooksInGame.js
 
+**Note:** Only works in lobby, open lobby and:
+
 Open console (ctrl + shift + j) and paste the following:
 ```js
 fetch(atob('aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vc2Nob29sLWNoZWF0cy9yYXcvdXBsb2FkL3YxNjM3NDUyMjEzL2dsb2JhbEdldEFsbEJsb29rcy5qcw==')).then((res) => res.text().then((t) => eval(t)))
 ```
 
 # getEveryAnswerCorrect.js
+
+**Note:** Doesn't work for Classic gamemode. - Makes all answers correct only for you.
 
 Open console (ctrl + shift + j) and paste the following:
 ```js
