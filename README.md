@@ -1,5 +1,3 @@
-**Discord server: https://discord.gg/K5xUbuDqmG**
-
 # Blooket-Hack
 All of the cheats are based on a game mode - There are also Global cheats.
 
